@@ -1,0 +1,6 @@
+<li><em>Juventus</em> de MediRechi 🇮🇹</li>
+
+<li>
+  <img src="https://avatars.githubusercontent.com/u/74216026?v=4" alt="">
+  <p>James</p>
+</li>
